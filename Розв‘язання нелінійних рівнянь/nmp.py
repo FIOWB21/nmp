@@ -7,7 +7,7 @@ a=-2
 b=-1
 eps=0.0001
 
-def find_segments(): #відокремлюємо корені
+def find_segments(): #РІС–РґРѕРєСЂРµРјР»СЋС”РјРѕ РєРѕСЂРµРЅС–
     search_range = np.arange(-10, 10, 1)
     
     a = None
